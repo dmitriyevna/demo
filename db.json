@@ -1,3 +1,4 @@
 {
-  "auth": { "login": "Login", "password": "pathw" }
+  "auth": { "login": "Login", "password": "pathw" },
+  "rate": { "status": "ok", "rate": 0.26 }
 }
