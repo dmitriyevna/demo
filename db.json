@@ -1,4 +1,12 @@
 {
   "auth": { "login": "Login", "password": "pathw" },
-  "rate": { "status": "ok", "rate": 0.12 }
+  "rate": { "status": "ok", "rate": 0.12 },
+  "dictionary": { 
+    "status": "ok",
+    "dictionary": [
+        "porn",
+        "fuck",
+        "blow job"
+    ]
+ }
 }
