@@ -1,5 +1,5 @@
 {
-  "auth": { "login": "demo", "password": "demo.pwd" },
+  "auth": { "username": "demo", "password": "demo.pwd" },
   "rate": { "status": "ok", "rate": 0.12 },
   "dictionary": { 
     "status": "ok",
